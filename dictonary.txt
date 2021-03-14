@@ -1,0 +1,24 @@
+Raesfeld 
+Flughafen 					-	Airport
+Berlin 						-	Berlin
+Bratwurst 					-	Pork Sausage
+Hauptstrasse 				-	Main Road
+Brot 						-	Loaf
+Gauss 						-	Unit of Magnetic Flux
+Klimaanlage 				-	Air Conditioner
+Rammstein					-	Ramming stone
+Musik 						-	Music
+Porsche 					-	Porsche
+BMW 						-	BMW
+Biergarten 					-	Beer Garden
+Ratskeller 					-	
+Dirndel 
+Lederhose 					-	Leather Pants
+Audi 						-	Audi
+Schloss 					-	Lock
+Munich 						-	Munich
+wettbewerbsfaehig			-	Competitive
+Mehlhase 					-	Flour Bunny
+Gebaeck 					-	Patries
+Baeckerei 					-	Bakery
+Hund						-	Dog
