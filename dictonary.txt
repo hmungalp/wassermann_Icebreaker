@@ -1,24 +1,24 @@
-Raesfeld 					- 	Raesfeld ( Municipality in Germany)
-Flughafen 					-	Airport
+Raesfeld 					- Raesfeld ( Municipality in Germany)
+Flughafen 				-	Airport
 Berlin 						-	Berlin
-Bratwurst 					-	Pork Sausage
-Hauptstrasse 				-	Main Road
-Brot 						-	Loaf
+Bratwurst 				-	Pork Sausage
+Hauptstrasse 			-	Main Road
+Brot 						  -	Loaf
 Gauss 						-	Unit of Magnetic Flux
-Klimaanlage 				-	Air Conditioner
+Klimaanlage 			-	Air Conditioner
 Rammstein					-	Ramming stone
 Musik 						-	Music
 Porsche 					-	Porsche
-BMW 						-	BMW
-Biergarten 					-	Beer Garden
-Ratskeller 					-	
-Dirndel 
-Lederhose 					-	Leather Pants
-Audi 						-	Audi
+BMW 						  -	BMW
+Biergarten 			  -	Beer Garden
+Ratskeller 			  -	Bar or restaurant located in the basement of a city hall
+Dirndel           - Traditional German dress for women and girls
+Lederhose 				-	Leather Pants
+Audi 						  -	Audi
 Schloss 					-	Lock
 Munich 						-	Munich
 wettbewerbsfaehig			-	Competitive
 Mehlhase 					-	Flour Bunny
 Gebaeck 					-	Patries
-Baeckerei 					-	Bakery
-Hund						-	Dog
+Baeckerei 				-	Bakery
+Hund						  -	Dog
